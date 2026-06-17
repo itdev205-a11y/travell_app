@@ -30,8 +30,7 @@ dependencies:
   cloud_firestore: ^5.5.0
   go_router: ^15.1.2
   http: ^1.2.0
-  shared_preferences: ^2.2.3
-
+  firebase_messaging: ^15.1.3
 
 dev_dependencies:
   flutter_test:
@@ -49,8 +48,8 @@ flutter:
     - assets/images/city/moscow.jpg
     - assets/images/beach/beachsharam.jpg
     - assets/images/beach/maldiv.jpg
-    - assets/images/logo/logogmail.jpg
     - assets/images/mostvisited/roma.jpg
     - assets/images/mostvisited/ryiadh.jpg
     - assets/images/mostvisited/istanbul.jpg
+    - assets/images/logo/photologin.jpg
 
